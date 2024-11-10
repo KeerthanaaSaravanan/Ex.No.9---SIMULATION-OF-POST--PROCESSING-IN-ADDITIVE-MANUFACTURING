@@ -7,9 +7,11 @@
 ## AIM: 
  To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 <br>
+<br>
 
 ## REQUIREMENTS:
  System - Windows 7 or higher, 1 GB RAM.
+<br>
 <br>
 
 ## PROCEDURE:
@@ -48,6 +50,7 @@
 
  5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 <br>
+<br>
 
 ## OUTPUT :
 
@@ -70,6 +73,7 @@
 ![Screenshot 2024-11-04 153727](https://github.com/user-attachments/assets/2a67aabe-c7e5-4569-a90f-ff75ed57925f)
 <br>
 <br>
+<br>
 
 ## Output:
 
@@ -81,6 +85,7 @@
 
 ## Heat Treatment of 3D printed part
 ![Screenshot 2024-10-16 233128](https://github.com/user-attachments/assets/26a71855-fe45-4703-be18-758e58f579f5)
+<br>
 <br>
 
 ## Result: 
